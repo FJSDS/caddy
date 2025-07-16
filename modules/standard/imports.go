@@ -13,6 +13,7 @@ import (
 	_ "github.com/caddyserver/caddy/v2/modules/caddytls/distributedstek"
 	_ "github.com/caddyserver/caddy/v2/modules/caddytls/standardstek"
 	_ "github.com/caddyserver/caddy/v2/modules/filestorage"
+	_ "github.com/caddyserver/caddy/v2/modules/json_parse"
 	_ "github.com/caddyserver/caddy/v2/modules/logging"
 	_ "github.com/caddyserver/caddy/v2/modules/metrics"
 )
